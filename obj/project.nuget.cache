@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bSrAlxj0jKc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\parit\\Desktop\\Git+COde\\CrudApp\\CrudApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\parit\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\parit\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
