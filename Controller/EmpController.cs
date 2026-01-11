@@ -23,7 +23,11 @@ namespace CrudApp.Controller
         public async  Task<IActionResult> GetEmp()
         {
             var data = await _context.Employees.ToListAsync();
-            return Ok(data);
+            return Ok(new 
+                {
+            Message ="Employee Fetch Successfully",
+                data = data
+            });
         }
 
 
